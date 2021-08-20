@@ -1,14 +1,15 @@
 # React-based-website
 
-    • Employee Management system is a web application that enables users to create,store and manage Employee Records
+    • Employee management system is a web application that enables user to create and manage employee record.
+    
+    • It is a management system that helps to manage employee and also the company different task and project.
+    
+    • Employee management system can manage and store details of employee like employee personal information and also details of different department of the company and different branches of the organisation.
+    
+      
 
-    • The application also provides facilities of a payroll system and leave application
-       It is a management system that helps to manage employees and also the company’s different task and project
 
-    • Employee management system can manage and store details of employees like employees personal info and  details of different department of the company.
-
-
-This web application contains three account access:
+## This web application contains three account access:
 
  • Admin
 
@@ -18,7 +19,7 @@ All three accounts contain different privileges and authentication
 
 
 
-The different part or module of this project is as follows:
+## The different part or module of this project is as follows:
 
  • Login Page
  
@@ -33,20 +34,5 @@ The different part or module of this project is as follows:
  • Database(MongoDB)
  
  • Mobile-Friendly UI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
