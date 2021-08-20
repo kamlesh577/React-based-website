@@ -36,3 +36,12 @@ All three accounts contain different privileges and authentication
  • Mobile-Friendly UI
 
 
+
+![add](https://user-images.githubusercontent.com/38343027/130238159-e3e113ca-55b4-4388-a1a6-43796dfe9281.png)
+
+
+
+
+![info](https://user-images.githubusercontent.com/38343027/130238220-6c1396b6-bbfc-44fe-8b61-ca9cec5b56d6.png)
+
+
